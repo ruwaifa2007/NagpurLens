@@ -1,5 +1,10 @@
 <div align="center">
-
+<p align="center">
+  <img src="assets/branding/final_banner.png"
+       alt="NagpurLens Banner"
+       width="100%">
+</p>
+        
 # 🏙️ NagpurLens
 
 ### Building the Digital Intelligence Layer for Nagpur
