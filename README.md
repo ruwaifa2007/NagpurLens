@@ -392,12 +392,6 @@ Before submitting a pull request, please ensure that your contribution:
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 # ⭐ Guiding Principles
 
 NagpurLens is built on five engineering principles.
