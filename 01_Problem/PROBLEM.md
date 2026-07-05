@@ -57,7 +57,7 @@ Without this data:
 - A builder cannot identify where demand is forming before supply catches up
 - A homebuyer cannot distinguish between a locality that looks affordable because it is growing versus one that looks affordable because it is declining
 
-**What is missing:** A Growth Signal Index that combines construction activity, metro proximity, infrastructure investment trends, and population movement into a single ranked output per locality.
+**What is missing:** A verified, locality-level dataset mapping infrastructure supply against population demand — producing a quantified Infrastructure Density Index (IDI) and Population-Infrastructure Ratio (PIR) for every locality in Nagpur.
 
 **Version 2 addresses this problem.**
 
@@ -72,7 +72,7 @@ Without this data:
 - A builder deciding where to develop next has no quantified signal for where demand is underserved
 - A researcher studying real estate market efficiency in Tier-2 cities has no verified dataset to work with
 
-**What is missing:** An Investment Attractiveness Score — The weighting methodology is versioned and may evolve based on validation, expert review, and empirical evaluation. Every revision will be documented.
+**What is missing:** An Investment Attractiveness Score (IAS) combining infrastructure health, growth trajectory, and demographic signals into a single ranked output per locality. Its weighting methodology is versioned and may evolve based on validation, expert review, and empirical evaluation; every revision will be documented.
 
 **Version 3 addresses this problem.**
 
